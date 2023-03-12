@@ -7,7 +7,7 @@
 </script>
 
 <main class=" container max-w-lg m-auto flex flex-col">
-  <h1 class="font-mono text-sm mb-5 mt-5 min-h-full">HOLA ME PUEDO RENDERIZAR</h1>
+  <h1 class="font-mono text-lg mb-5 mt-5 min-h-full">FIX YOUR SENTENCE HERE!</h1>
   <TextArea />
   <ButtonLoading />
 </main>
